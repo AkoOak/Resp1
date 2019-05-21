@@ -3,7 +3,7 @@
 
 <html>
 <head>
-	<title>Test Issue002</title>
+	<title>Test Issue002 update</title>
 	 <link href="<c:url value="/resources/css/style.css" />" rel="stylesheet">
 </head>
 <body>
