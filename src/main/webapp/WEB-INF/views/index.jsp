@@ -3,7 +3,7 @@
 
 <html>
 <head>
-	<title>Test Framework</title>
+	<title>Test Issue002</title>
 	 <link href="<c:url value="/resources/css/style.css" />" rel="stylesheet">
 </head>
 <body>
